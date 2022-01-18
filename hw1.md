@@ -23,6 +23,7 @@ Secret: h (shift of 7)
 
 Didn’t need to script this, but I already had a script so I figured I might as well just use that.
 
+'''python
     # pip3 install pyenchant
     import enchant
     
@@ -51,6 +52,7 @@ Didn’t need to script this, but I already had a script so I figured I might as
             print(f"{best[2]}: {best[1]}")
             secret += chr(best[2] + 97)
         print(f"\nSecret: {secret}")
+	'''
 
 ## Q2
 ![enter image description here](https://lh3.googleusercontent.com/pw/AM-JKLXb_m4B8moiWhEVtevpH7QKAVtFKBmVPam9YSnP8VcLYB5_S-3jnoiwZskfjd5cZ7-hvGnwNqdcDeDI62sZm88ik8iiGjQi3hv88gmExt2DAV7dXTz_E2oJVJBKcZQGw3hwDwCfdvJL6mFLMCFW7yJ9Bw=w1913-h487-no?authuser=0)
