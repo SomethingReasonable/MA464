@@ -1,8 +1,8 @@
 ﻿
 # MA464 Homework #1
-CDT Tyler Harmon
-LTC Vanatta
-18JAN22
+- CDT Tyler Harmon
+- LTC Vanatta
+- 18JAN22
 
 ## Q1
 Decrypt the following Caesar Encryption. Provide the message as well as the value of the key.
